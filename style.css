@@ -41,7 +41,7 @@
 
 body {
   margin: 0;
-  font-family: "Open sans", sans-serif;
+  font-family: 'Open sans', sans-serif;
   cursor: default;
 }
 
@@ -136,7 +136,7 @@ ul {
   position: relative;
 }
 .navbar__logo > a {
-  font-family: "Times New Roman", Times, serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .navbar__toggleBtn {
@@ -155,7 +155,7 @@ ul {
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  background: url("/image/background_comp.png") center/cover no-repeat;
+  background: url('/image/background_comp.png') center/cover no-repeat;
   padding: 40px;
   text-align: center;
   height: 760px;
